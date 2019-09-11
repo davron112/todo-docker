@@ -8,7 +8,7 @@ The purpose of docker-compose is to function as docker cli but to issue multiple
 
    -> yum install docker-compose
 
-   -> `Example: git clone https://github.com/davron112/todo-docker.git /home/server/docker`
+   -> `Example: git clone https://github.com/davron112/todo-docker.git /home/docker`
 
    -> `Example: cd /home/docker`
    
